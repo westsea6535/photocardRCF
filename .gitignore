@@ -1,0 +1,12 @@
+/__pycache__/
+/data/photocard/
+/result_save/
+/test_result/
+/train_results/
+/image_processing/augmentation/
+/image_processing/manually_generated_image_set/2px
+
+*.pth
+*.mat
+*.svg
+
